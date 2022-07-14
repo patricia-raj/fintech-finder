@@ -30,7 +30,7 @@ def generate_account(w3):
     wallet = Wallet(mnemonic)
     
     # Derive Ethereum Private Key
-    private, public = wallet.derive_account("eth")
+    private, public = wallet.derive_account("eth", account=1)
     
     # Convert private key into an Ethereum account
     account = Account.privateKeyToAccount(private)
