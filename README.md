@@ -27,3 +27,8 @@ by integrating with Ethereum blockchain network in order to enable instant pay w
 
 ### Demonstration of Fintech Finder application with the integrated Ethereum wallet.
 ![Fintech Finder Demo](Resources/Fintech_Finder_demo.mov)
+
+
+
+https://user-images.githubusercontent.com/99471693/178936180-9581e139-5c4f-40f5-b87d-71543c07c0d1.mp4
+
